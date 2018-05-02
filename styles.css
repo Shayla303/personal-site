@@ -1,0 +1,21 @@
+body {
+margin: 0;
+font-family:'Give You Glory', cursive;
+/* background-color: #D2D2D7; */
+}
+
+h1 {
+  color: #800000;
+  margin-left: 450px;
+  margin-right: 100px;
+}
+
+p{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.LuckyLefty {
+  background-image: url("images/pic1.jpg");
+  height: 150px;
+   }
